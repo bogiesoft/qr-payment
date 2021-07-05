@@ -4,7 +4,7 @@
  */
 
 
-namespace Bogiesoft;
+namespace bogiesoft\qr-payment;
 use Endroid\QrCode\QrCode;
 
 
