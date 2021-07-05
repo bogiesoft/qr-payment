@@ -58,7 +58,7 @@ $scb->getqrcode($amount, $ref_1, $ref_2, $billerId);
 Feel free to contribute on this project, We'll be happy to work with you.
 
 ## Donation
-If this project help you reduce time to develop, you can give me a bottle of IPA beer :)
+If this project help you reduce time to develop, you can give me a coffee one cup :)
 <p align="center">
   <img src="images/promptpay.png" width="120" />
 </p>
