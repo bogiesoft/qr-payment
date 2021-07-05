@@ -1,6 +1,6 @@
 <?php
 
-namespace bogiesoft;
+namespace bogiesoft\qr-payment;
 
 
 
