@@ -57,5 +57,11 @@ $scb->getqrcode($amount, $ref_1, $ref_2, $billerId);
 ## Contributing
 Feel free to contribute on this project, We'll be happy to work with you.
 
+## Donation
+If this project help you reduce time to develop, you can give me a bottle of IPA beer :)
+<p align="center">
+  <img src="images/promptpay.png" width="120" />
+</p>
+
 ## License
 This bundle is under the MIT license. For the full copyright and license information please view the LICENSE file that was distributed with this source code.
