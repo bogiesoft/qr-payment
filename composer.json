@@ -11,8 +11,8 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^8.5.9",
-        "phpunit/php-timer": "^2.1.2",
-        "satooshi/php-coveralls": "^2.2.0"
+        "phpunit/php-timer": "^2.1.2"
+        
     },
     "autoload": {
         "psr-4": {
