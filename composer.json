@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "bogiesoft\\qr-payment\\": "src"
+            "bogiesoft\\qr-payment\\": "src/"
         }
     }
 }
