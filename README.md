@@ -1,8 +1,5 @@
 # bogiesoft/qr-payment
-[![Build Status](https://travis-ci.org/bogiesoft/qr-payment.svg?branch=master)](https://travis-ci.org/bogiesoft/qr-payment)
-[![Build Status](https://scrutinizer-ci.com/g/bogiesoft/qr-payment/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bogiesoft/qr-payment/build-status/master)
-[![Code Coverage](https://scrutinizer-ci.com/g/bogiesoft/qr-payment/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/bogiesoft/qr-payment/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bogiesoft/qr-payment/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bogiesoft/qr-payment/?branch=master)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 PHP Library to generate QR Code for QR-Payment and PromptPay
