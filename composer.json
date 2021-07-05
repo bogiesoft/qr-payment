@@ -1,0 +1,22 @@
+{
+    "name": "bogiesoft/qr-payment",
+    "description": "PHP Library to generate QR Code for QR-Payment and PromptPay ",
+    "keywords": [
+        "QR-Payment", "Promptpay"
+    ],
+    "license": "MIT",
+    "require": { 
+        "php": ">=7.3",
+        "endroid/qr-code": "^3.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5.9",
+        "phpunit/php-timer": "^2.1.2",
+        "satooshi/php-coveralls": "^2.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "bogiesoft\\": "src"
+        }
+    }
+}
